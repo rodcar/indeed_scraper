@@ -11,3 +11,6 @@ $1.5 per 1000 requests.
 1 request = 10 job initial info
 
 1 request = 1 job detail info / 1 job update status
+
+Average time per request (per page): 3.36 seconds
+Total time for 20 pages: 67.11 seconds (Can be parallelized)
